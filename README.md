@@ -9,15 +9,16 @@ The code will be released once the paper get accepted.
 We first demo the three algorithm performance in the simulation environment. The video(a) is the drone guiding by the single light in the center using Bearing Angle Guidance(BAG) Algorithm. The video(b) is the drone guiding using Dither Extremum Seeking(DES) Algorithm. The video(c) is the drone navigating using Dither-Free Gradient Ascent(DGA).
 
 
-| (a) | (b) | (c) |
+| (a) BAG Algorithm | (b) DES Algorithm | (c) DGA Algorithm |
 | :---: | :---: | :---: |
 | ![BAG Algorithm](figures/drone_bearing_angle_speed_up.gif) | ![DES Algorithm](figures/drone_with_dither_algorithm_speed.gif) | ![DGA Algorithm](figures/drone_with_gradient_ascent_speed.gif) |
 
 # Three Light Seeking Navigation Algorithm in indoor environment
 
-We now demonstrate the real-world performance first in a 7x7 m^2 indoor environment. 
+We now demonstrate the real-world performance first in a 7x7 m^2 indoor environment. The drone is initialized at a distance of 7m away from the light. 
 
 | (a) | (b) | (c) |
-| :---: | :---: | :---: |
-| ![BAG Algorithm](figures/video1.gif) | ![DES Algorithm](figures/video2.gif) | ![DGA Algorithm](figures/video3.gif) |
-| Estimated gaze without the trigger. | Estimated gaze when the trigger is present. | Estimated gaze when subject puts on and removes the trigger. |
+| (a) BAG Algorithm | (b) DES Algorithm | (c) DGA Algorithm |
+| ![BAG Algorithm](figures/BAG_indoor.gif) | ![DES Algorithm](figures/IMG_6054.gif) | ![DGA Algorithm](figures/IMG_6055.gif) |
+
+# Three Light Seeking Navigation Algorithm in outdoor environment

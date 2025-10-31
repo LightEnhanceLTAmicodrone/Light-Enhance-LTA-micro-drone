@@ -20,5 +20,3 @@ We now demonstrate the real-world performance first in a 7x7 m^2 indoor environm
 | (a) BAG Algorithm | (b) DES Algorithm | (c) DGA Algorithm |
 | :---: | :---: | :---: |
 | ![BAG Algorithm](figures/BAG_indoor.gif) | ![DES Algorithm](figures/IMG_6054.gif) | ![DGA Algorithm](figures/IMG_6055.gif) |
-
-# Three Light Seeking Navigation Algorithm in outdoor environment

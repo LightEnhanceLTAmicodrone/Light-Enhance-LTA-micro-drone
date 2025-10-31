@@ -8,5 +8,5 @@ The code will be released once the paper get accepted.
 
 | Video/Image 1 | Video/Image 2 | Video/Image 3 |
 | :---: | :---: | :---: |
-| ![BAG Algorithm](figures/drone_bearing_agnle.mp4) | ![DES Algorithm](figures/drone_bearing_agnle.mp4) | ![DGA Algorithm](figures/drone_bearing_agnle.mp4) |
+| ![BAG Algorithm](figures/drone_bearing_agnle.gif) | ![DES Algorithm](figures/drone_bearing_agnle.gif) | ![DGA Algorithm](figures/drone_bearing_agnle.gif) |
 | (a) Drone Navigation using BAG Algorithm. | (b) Drone Navigation using DES Algorithm | (c) Drone Navigation using DGA Algorithm

@@ -6,7 +6,11 @@ The code will be released once the paper get accepted.
 
 # Three Light Seeking Navigation Algorithm in Simulation Demo
 
-| Video/Image 1 | Video/Image 2 | Video/Image 3 |
-| :---: | :---: | :---: |
-| ![BAG Algorithm](figures/drone_bearing_agnle.gif) | ![DES Algorithm](figures/drone_bearing_agnle.gif) | ![DGA Algorithm](figures/drone_bearing_agnle.gif) |
-| (a) Drone Navigation using BAG Algorithm. | (b) Drone Navigation using DES Algorithm | (c) Drone Navigation using DGA Algorithm
+### (a) Drone Navigation using BAG Algorithm.
+![Drone Navigation using BAG Algorithm.](figures/drone_bearing_agnle.gif)
+
+### (b) Drone Navigation using DES Algorithm
+![Drone Navigation using DES Algorithm](figures/drone_with_dither_algorithm.gif)
+
+### (c) Drone Navigation using DGA Algorithm
+![Drone Navigation using DGA Algorithm](figures/drone_with_gradient_ascent.gif)

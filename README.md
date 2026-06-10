@@ -5,5 +5,7 @@ The code will be released once the paper get accepted.
 
 ## Demo
 
-<video src="https://github.com/LightEnhanceLTAmicodrone/Light-Enhance-LTA-micro-drone/raw/main/figures/Combined.mp4" controls width="600"></video>
+![Combined Demo](figures/Combined_small.gif)
+
+*The GIF above is a compressed inline preview. For the full high-quality video, please download [figures/Combined.mp4](figures/Combined.mp4).*
 
